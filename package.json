@@ -1,0 +1,12 @@
+{
+  "name": "js-docker-compose",
+  "version": "1.0.0",
+  "main": "/lib/main.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "Batiukhno Nikita",
+  "license": "MIT",
+  "description": "Script for auto start docker compose."
+}
