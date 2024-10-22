@@ -7,6 +7,7 @@
   },
   "keywords": [],
   "author": "Batiukhno Nikita",
+  "repository": "https://github.com/HardKot/js-docker-compose",
   "license": "MIT",
   "description": "Script for auto start docker compose."
 }
