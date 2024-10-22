@@ -22,7 +22,7 @@ npm i -d https://github.com/HardKot/js-docker-compose.git
 const { 
     NodeJsDockerCompose,
     DockerCompose
-} = require("HardKot/js-docker-compose")
+} = require("js-docker-compose")
 
 
 DockerCompose() 
